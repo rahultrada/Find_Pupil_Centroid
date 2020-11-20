@@ -30,7 +30,7 @@ source env/bin/activate
 ```
 pip install -r requirements.txt
 ```
-5. Execute the script: 
+5. Execute the program: 
 ```
 python3 pupil_detection.py
 ```
