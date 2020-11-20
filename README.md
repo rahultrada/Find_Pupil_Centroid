@@ -1,4 +1,4 @@
-# find_pupil_centroid
+# Pupil detection algorithm challenge
 
 This repo consists of work done as part of the TeleMedC pupil (and its centroid) detection algorithm challenge. Work is done in Python3.
 
