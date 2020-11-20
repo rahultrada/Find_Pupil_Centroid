@@ -5,8 +5,8 @@ This repo consists of work done as part of the TeleMedC pupil (and its centroid)
 Below are a list of files in this repo and their purposes:
 1. `pupil_detection.pdf` - A written explanation of my approach to solving the challenge, including image processing steps etc.
 2. `pupil_detection.py` - The pupil (and its centroid) detection algorithm python file
-3. `sample.mkv` - The video file used to develop, and to run, the algorithm
-4. `requirements.txt` - The package dependencies to run the algorithm
+3. `requirements.txt` - The package dependencies to run the algorithm
+4. `sample.mkv` - The video file used to develop, and to run, the algorithm
 
 # Instructions to run the algorithm
 1. Clone this repository
