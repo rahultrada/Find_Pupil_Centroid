@@ -116,7 +116,7 @@ if __name__ == "__main__":
         annotate_frame(roi)
 
         # display the output frame
-        cv2.imshow('Roi', roi)
+        cv2.imshow('Region of interest', roi)
 
         # user can press key 'p' to pause and resume the frames, or key 'q' to quit
         key = cv2.waitKey(1)
