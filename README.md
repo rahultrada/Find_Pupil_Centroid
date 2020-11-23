@@ -11,7 +11,6 @@ Below are a list of files in this repo and their purposes:
 # Instructions to run the algorithm
 1. Clone this repository. 
 ```
-git init
 git clone https://github.com/rahultrada/find_pupil_centroid
 ```
 2. Navigate to the local folder
