@@ -1,5 +1,7 @@
 # Pupil detection algorithm challenge
 
+![Pupil detection](img.png)
+
 This repo consists of work done as part of the TeleMedC pupil (and its centroid) detection algorithm challenge using OpenCV.
 
 Below are a list of files in this repo and their purposes:
